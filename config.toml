@@ -9,45 +9,64 @@ enableRobotsTXT = true
 # Code highlighting theme
 pygmentsStyle = "monokai"
 
+# Make post list page titles not plural
+# (fix the Musics issue)
+pluralizelisttitles = false
+
 [params]
     # Copyright text
     footer = "Daniel Parrish"
 
     # Link highlight color
-    accentColor = "#19a357"
+    # DEEEPIII GREEN accentColor = "#19a357"
+    accentColor = "#ffa8ff"
+
+    # Main avatar image
+    avatarURL = "/images/picrew7065.png"
+
+    # Homepage site description
+    description = "I'm currently a software development student at Western Governors University. When I'm not studying for classes, you might find me writing music under the name \"deeepiii\" or working on other creative projects."
 
 [menu]
-    # Posts Header Link
+
+
+
     [[menu.main]]
-        # Unique identifer for a menu item
-        identifier = "posts"
-
-        url = "/posts/"
-    
-        # You can add extra information before the name (HTML format is supported), such as icons
-        pre = ""
-
-        # You can add extra information after the name (HTML format is supported), such as icons
-        post = ""
-
-        # Display name
-        name = "Posts"
-
-        # Weights are used to determine the ordering
+        identifier = "music"
+        name = "Music"
+        url = "/music/"
         weight = 1
+
+    [[menu.main]]
+        identifier = "art"
+        name = "Art"
+        url = "/art/"
+        weight = 2 
+
+    [[menu.main]]
+        identifier = "code"
+        name = "Code"
+        url = "/code/"
+        weight = 3   
+
+    [[menu.main]]
+        identifier = "wiki"
+        name = "Wiki"
+        url = "/wiki/"
+        weight = 4               
 
     # Tags Header Link
     [[menu.main]]
         identifier = "tags"
         name = "Tags"
         url = "/tags/"
-        weight = 2
+        weight = 5
 
-     # Github Header Link  
+    # Youtube Header Link  
     [[menu.main]]
-        identifier = "github"
-        url = "https://github.com"
-        weight = 3
-    
-        # We use feather-icons: https://feathericons.com/
-        pre = "<span data-feather='github'></span>"
+        identifier = "youtube"
+        url = "https://www.youtube.com/channel/UCyYkOrULZdGwLszf2UK5n-A"
+        weight = 6
+        # for icon: https://feathericons.com/
+        pre = "<span data-feather='youtube'></span>"
+
