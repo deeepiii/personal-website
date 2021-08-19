@@ -2,7 +2,7 @@
 title: "Fly (ft. AVANNA)"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
 date: 2021-08-16T15:46:35-05:00
-draft: true
+draft: false
 type: post
 ---
 

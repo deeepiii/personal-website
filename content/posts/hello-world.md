@@ -2,7 +2,7 @@
 title: "Hello World"
 date: 2021-08-18T13:17:28-05:00
 type: "post"
-draft: true
+draft: false
 ---
 
 # Heading H1

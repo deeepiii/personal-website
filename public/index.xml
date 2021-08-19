@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Parrish</title>
+    <link>https://thirsty-gates-3d4ff3.netlify.app/</link>
+    <description>Recent content on Daniel Parrish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Aug 2021 15:09:25 -0500</lastBuildDate><atom:link href="https://thirsty-gates-3d4ff3.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://thirsty-gates-3d4ff3.netlify.app/posts/hello-world/</link>
+      <pubDate>Wed, 18 Aug 2021 13:17:28 -0500</pubDate>
+      
+      <guid>https://thirsty-gates-3d4ff3.netlify.app/posts/hello-world/</guid>
+      <description>Heading H1 Heading H2 Heading H3 This is normal text. This is bold text. This is italicized text.
+ This is a blockquote. I&amp;rsquo;m not really sure what this will look like.
+  Item 1 of an ordered list Item 2 of an ordered list Item 3 of an ordered list   Item 1 of an unordered list Item 2 of an unordered list Item 3 of an unordered list  This is a piece of inline code.</description>
+    </item>
+    
+    <item>
+      <title>Fly (ft. AVANNA)</title>
+      <link>https://thirsty-gates-3d4ff3.netlify.app/music/fly/</link>
+      <pubDate>Mon, 16 Aug 2021 15:46:35 -0500</pubDate>
+      
+      <guid>https://thirsty-gates-3d4ff3.netlify.app/music/fly/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam lobortis velit eu lectus faucibus auctor. Suspendisse ornare dui ut vehicula viverra. Proin ut mauris metus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer quis vehicula ipsum. Aliquam consequat ligula suscipit eros faucibus rhoncus. Curabitur efficitur, lacus sed euismod tincidunt, magna massa dapibus urna, vitae mattis quam libero et leo. Aenean sit amet velit faucibus augue ultrices lacinia.</description>
+    </item>
+    
+    <item>
+      <title>Blast Processed Otaku Tunes</title>
+      <link>https://thirsty-gates-3d4ff3.netlify.app/music/bpot/</link>
+      <pubDate>Mon, 23 Sep 2019 15:46:35 -0500</pubDate>
+      
+      <guid>https://thirsty-gates-3d4ff3.netlify.app/music/bpot/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam lobortis velit eu lectus faucibus auctor. Suspendisse ornare dui ut vehicula viverra. Proin ut mauris metus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer quis vehicula ipsum. Aliquam consequat ligula suscipit eros faucibus rhoncus. Curabitur efficitur, lacus sed euismod tincidunt, magna massa dapibus urna, vitae mattis quam libero et leo. Aenean sit amet velit faucibus augue ultrices lacinia.</description>
+    </item>
+    
+    <item>
+      <title>Blowin&#39; Off Dust</title>
+      <link>https://thirsty-gates-3d4ff3.netlify.app/music/blowin-off-dust/</link>
+      <pubDate>Tue, 16 Aug 2016 15:46:35 -0500</pubDate>
+      
+      <guid>https://thirsty-gates-3d4ff3.netlify.app/music/blowin-off-dust/</guid>
+      <description>Back in 2016 my brother was running a tabletop RPG for some friends. Since they all lived in different places and couldn&amp;rsquo;t meet in-person, they used an online tabletop instead. At the time, that service had a built-in music player you could use to loop music. He made all the graphics himself in the style of an early 90s fantasy RPG, so I wrote some similarly-styled songs for him to use in-game.</description>
+    </item>
+    
+  </channel>
+</rss>

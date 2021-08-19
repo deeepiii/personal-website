@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Daniel Parrish</title>
+    <link>https://thirsty-gates-3d4ff3.netlify.app/posts/</link>
+    <description>Recent content in Posts on Daniel Parrish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Aug 2021 13:17:28 -0500</lastBuildDate><atom:link href="https://thirsty-gates-3d4ff3.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://thirsty-gates-3d4ff3.netlify.app/posts/hello-world/</link>
+      <pubDate>Wed, 18 Aug 2021 13:17:28 -0500</pubDate>
+      
+      <guid>https://thirsty-gates-3d4ff3.netlify.app/posts/hello-world/</guid>
+      <description>Heading H1 Heading H2 Heading H3 This is normal text. This is bold text. This is italicized text.
+ This is a blockquote. I&amp;rsquo;m not really sure what this will look like.
+  Item 1 of an ordered list Item 2 of an ordered list Item 3 of an ordered list   Item 1 of an unordered list Item 2 of an unordered list Item 3 of an unordered list  This is a piece of inline code.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,7 +2,7 @@
 title: "Blowin' Off Dust"
 description: "My love-letter to the video game music of the 1990s"
 date: 2016-08-16T15:46:35-05:00
-draft: true
+draft: false
 type: post
 ---
 

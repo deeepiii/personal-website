@@ -1,7 +1,7 @@
 ---
 title: "Music"
 date: 2021-08-18T16:45:58-05:00
-draft: true
+draft: false
 type: page
 ---
 

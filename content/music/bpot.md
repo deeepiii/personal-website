@@ -2,7 +2,7 @@
 title: "Blast Processed Otaku Tunes"
 description: "Anime songs that stay true to the Sega Genesis hardware limitations"
 date: 2019-09-23T15:46:35-05:00
-draft: true
+draft: false
 type: post
 ---
 

@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = 'Daniel Parrish'
 theme = "gokarna"
 
+publishDir = "public"
+
 # Automatically generate robots.txt
 enableRobotsTXT = true
 
