@@ -20,7 +20,7 @@ pluralizelisttitles = false
 enableEmoji = true
 
 # Enable auto-rewrite of relative URLs to be relative to current content
-relativeURLs = true
+relativeURLs = false
 
 [params]
     # Copyright text
