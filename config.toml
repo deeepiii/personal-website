@@ -1,8 +1,9 @@
-baseURL = 'https://thirsty-gates-3d4ff3.netlify.app/'
+baseURL = 'https://danielparrish.me/'
 languageCode = 'en-us'
 title = 'Daniel Parrish'
 theme = "gokarna"
 
+# Directory that compiled site is published in when running 'hugo' command
 publishDir = "public"
 
 # Automatically generate robots.txt
@@ -14,6 +15,12 @@ pygmentsStyle = "monokai"
 # Make post list page titles not plural
 # (fix the Musics issue)
 pluralizelisttitles = false
+
+# Enable emoji shorthand in content files
+enableEmoji = true
+
+# Enable auto-rewrite of relative URLs to be relative to current content
+relativeURLs = true
 
 [params]
     # Copyright text
@@ -30,8 +37,6 @@ pluralizelisttitles = false
     description = "I'm currently a software development student at Western Governors University. When I'm not studying for classes, you might find me writing music under the name \"deeepiii\" or working on other creative projects."
 
 [menu]
-
-
 
     [[menu.main]]
         identifier = "music"
@@ -52,9 +57,9 @@ pluralizelisttitles = false
         weight = 3   
 
     [[menu.main]]
-        identifier = "wiki"
-        name = "Wiki"
-        url = "/wiki/"
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts/"
         weight = 4               
 
     # Tags Header Link

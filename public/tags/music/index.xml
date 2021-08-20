@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Music on Daniel Parrish</title>
-    <link>https://danielparrish.me/music/</link>
-    <description>Recent content in Music on Daniel Parrish</description>
+    <title>music on Daniel Parrish</title>
+    <link>https://danielparrish.me/tags/music/</link>
+    <description>Recent content in music on Daniel Parrish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Aug 2021 16:45:58 -0500</lastBuildDate><atom:link href="https://danielparrish.me/music/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Aug 2021 18:56:53 -0500</lastBuildDate><atom:link href="https://danielparrish.me/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I Left Social Media</title>
+      <link>https://danielparrish.me/posts/why-i-left-social-media/</link>
+      <pubDate>Thu, 19 Aug 2021 18:56:53 -0500</pubDate>
+      
+      <guid>https://danielparrish.me/posts/why-i-left-social-media/</guid>
+      <description>The Start of Something Good I&amp;rsquo;ve always had a love/hate relationship with social media, Twitter especially. Using it as a way to get news updates and keep an eye on topics I&amp;rsquo;m interested in was appealing to me. Using it to communicate and interact with others? Not so much. You could say I was a lot more invested in the &amp;ldquo;media&amp;rdquo; side of &amp;ldquo;social media&amp;rdquo;.
+When I started making vocal synth music, it was as a fun, new project.</description>
+    </item>
+    
     <item>
       <title>Fly (ft. AVANNA)</title>
       <link>https://danielparrish.me/music/fly/</link>

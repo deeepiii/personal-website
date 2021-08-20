@@ -2,9 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Daniel Parrish</title>
-    <link>https://thirsty-gates-3d4ff3.netlify.app/tags/</link>
+    <link>https://danielparrish.me/tags/</link>
     <description>Recent content in Tags on Daniel Parrish</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://thirsty-gates-3d4ff3.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Aug 2021 18:56:53 -0500</lastBuildDate><atom:link href="https://danielparrish.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>music</title>
+      <link>https://danielparrish.me/tags/music/</link>
+      <pubDate>Thu, 19 Aug 2021 18:56:53 -0500</pubDate>
+      
+      <guid>https://danielparrish.me/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>real life</title>
+      <link>https://danielparrish.me/tags/real-life/</link>
+      <pubDate>Thu, 19 Aug 2021 18:56:53 -0500</pubDate>
+      
+      <guid>https://danielparrish.me/tags/real-life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>avanna</title>
+      <link>https://danielparrish.me/tags/avanna/</link>
+      <pubDate>Mon, 16 Aug 2021 15:46:35 -0500</pubDate>
+      
+      <guid>https://danielparrish.me/tags/avanna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vocal synth</title>
+      <link>https://danielparrish.me/tags/vocal-synth/</link>
+      <pubDate>Mon, 16 Aug 2021 15:46:35 -0500</pubDate>
+      
+      <guid>https://danielparrish.me/tags/vocal-synth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hatsune miku</title>
+      <link>https://danielparrish.me/tags/hatsune-miku/</link>
+      <pubDate>Sat, 26 Jun 2021 11:25:18 -0500</pubDate>
+      
+      <guid>https://danielparrish.me/tags/hatsune-miku/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>project</title>
+      <link>https://danielparrish.me/tags/project/</link>
+      <pubDate>Mon, 23 Sep 2019 15:46:35 -0500</pubDate>
+      
+      <guid>https://danielparrish.me/tags/project/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

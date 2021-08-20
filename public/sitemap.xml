@@ -2,29 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thirsty-gates-3d4ff3.netlify.app/music/</loc>
+    <loc>https://danielparrish.me/tags/music/</loc>
+    <lastmod>2021-08-19T18:56:53-05:00</lastmod>
+  </url><url>
+    <loc>https://danielparrish.me/posts/</loc>
+    <lastmod>2021-08-19T18:56:53-05:00</lastmod>
+  </url><url>
+    <loc>https://danielparrish.me/tags/real-life/</loc>
+    <lastmod>2021-08-19T18:56:53-05:00</lastmod>
+  </url><url>
+    <loc>https://danielparrish.me/tags/</loc>
+    <lastmod>2021-08-19T18:56:53-05:00</lastmod>
+  </url><url>
+    <loc>https://danielparrish.me/posts/why-i-left-social-media/</loc>
+    <lastmod>2021-08-19T18:56:53-05:00</lastmod>
+  </url><url>
+    <loc>https://danielparrish.me/music/</loc>
     <lastmod>2021-08-18T16:45:58-05:00</lastmod>
   </url><url>
-    <loc>https://thirsty-gates-3d4ff3.netlify.app/</loc>
+    <loc>https://danielparrish.me/</loc>
     <lastmod>2021-08-18T15:09:25-05:00</lastmod>
   </url><url>
-    <loc>https://thirsty-gates-3d4ff3.netlify.app/posts/hello-world/</loc>
-    <lastmod>2021-08-18T13:17:28-05:00</lastmod>
-  </url><url>
-    <loc>https://thirsty-gates-3d4ff3.netlify.app/posts/</loc>
-    <lastmod>2021-08-18T13:17:28-05:00</lastmod>
-  </url><url>
-    <loc>https://thirsty-gates-3d4ff3.netlify.app/music/fly/</loc>
+    <loc>https://danielparrish.me/tags/avanna/</loc>
     <lastmod>2021-08-16T15:46:35-05:00</lastmod>
   </url><url>
-    <loc>https://thirsty-gates-3d4ff3.netlify.app/music/bpot/</loc>
+    <loc>https://danielparrish.me/music/fly/</loc>
+    <lastmod>2021-08-16T15:46:35-05:00</lastmod>
+  </url><url>
+    <loc>https://danielparrish.me/tags/vocal-synth/</loc>
+    <lastmod>2021-08-16T15:46:35-05:00</lastmod>
+  </url><url>
+    <loc>https://danielparrish.me/tags/hatsune-miku/</loc>
+    <lastmod>2021-06-26T11:25:18-05:00</lastmod>
+  </url><url>
+    <loc>https://danielparrish.me/music/trojan-horses/</loc>
+    <lastmod>2021-06-26T11:25:18-05:00</lastmod>
+  </url><url>
+    <loc>https://danielparrish.me/music/bpot/</loc>
     <lastmod>2019-09-23T15:46:35-05:00</lastmod>
   </url><url>
-    <loc>https://thirsty-gates-3d4ff3.netlify.app/music/blowin-off-dust/</loc>
+    <loc>https://danielparrish.me/tags/project/</loc>
+    <lastmod>2019-09-23T15:46:35-05:00</lastmod>
+  </url><url>
+    <loc>https://danielparrish.me/music/blowin-off-dust/</loc>
     <lastmod>2016-08-16T15:46:35-05:00</lastmod>
   </url><url>
-    <loc>https://thirsty-gates-3d4ff3.netlify.app/categories/</loc>
-  </url><url>
-    <loc>https://thirsty-gates-3d4ff3.netlify.app/tags/</loc>
+    <loc>https://danielparrish.me/categories/</loc>
   </url>
 </urlset>
