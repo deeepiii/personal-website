@@ -9,4 +9,6 @@ type: post
 
 {{< soundcloud 601184676 >}}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam lobortis velit eu lectus faucibus auctor. Suspendisse ornare dui ut vehicula viverra. Proin ut mauris metus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer quis vehicula ipsum. Aliquam consequat ligula suscipit eros faucibus rhoncus. Curabitur efficitur, lacus sed euismod tincidunt, magna massa dapibus urna, vitae mattis quam libero et leo. Aenean sit amet velit faucibus augue ultrices lacinia.
+This is a collection of 16-bit covers of songs featured in various Japanese anime. Each song (with one exception) was made entirely in [Deflemask](https://deflemask.com), a chiptune tracker that emulates old sound chips as closely as possible. In this case, those are the 2 sound chips found inside the Sega Genesis/Mega Drive. With the right tools, these songs could be played back on the original hardware.
+
+The Genesis/Mega Drive hardware has a few limitations. In this particular case, I was limited to 5 channels of FM synthesis, each channel only able to play one instrument at a time. There were also 2 channels that could play a simple square wave, and 1 channel each for white noise and audio samples, like drums and other percussion. This basically means at any given time there are a maximum of 7 instruments playing a single note, plus percussion. Also, every one of these covers was done by ear. No sheet music or MIDI files were referenced at any point.

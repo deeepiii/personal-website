@@ -34,7 +34,7 @@ relativeURLs = false
     avatarURL = "/images/picrew7065.png"
 
     # Homepage site description
-    description = "I'm currently a software development student at Western Governors University. When I'm not studying for classes, you might find me writing music under the name \"deeepiii\" or working on other creative projects."
+    description = "I may not know exactly where I'm going, but I know I'm on the right track"
 
 [menu]
 
@@ -44,17 +44,17 @@ relativeURLs = false
         url = "/music/"
         weight = 1
 
-    [[menu.main]]
-        identifier = "art"
-        name = "Art"
-        url = "/art/"
-        weight = 2 
+    #[[menu.main]]
+    #    identifier = "art"
+    #    name = "Art"
+    #    url = "/art/"
+    #    weight = 2 
 
-    [[menu.main]]
-        identifier = "code"
-        name = "Code"
-        url = "/code/"
-        weight = 3   
+    #[[menu.main]]
+    #    identifier = "code"
+    #    name = "Code"
+    #    url = "/code/"
+    #    weight = 3   
 
     [[menu.main]]
         identifier = "posts"
